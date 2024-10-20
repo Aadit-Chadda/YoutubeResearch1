@@ -1,0 +1,3411 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "6tMD_VVGd96OAu36yqnPy9Wwfas",
+    "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJa2dHQUFTQlFpZElCZ0JFZ1VJaHlBWUFCSUZDS2dnR0FBU0JRaUlJQmdBSWc0S0RBaTFxTk80QmhEd3I4TFFBdw==",
+    "pageInfo": {
+        "totalResults": 100,
+        "resultsPerPage": 100
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NXkTUs70bETi68dG3lBvI10csEM",
+            "id": "UgxL9A3YcaBzJTh0Svl4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2_uAJEwV8ZLEnxzyhXdm69Klc-s",
+                    "id": "UgxL9A3YcaBzJTh0Svl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Seriously the libs side kick won ...?",
+                        "textOriginal": "Seriously the libs side kick won ...?",
+                        "authorDisplayName": "@richardsamanthajones5476",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lKPZK1NuY0ENtHOAGdT1YI5sNlyZl4b8G7ylMNRohdZPE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@richardsamanthajones5476",
+                        "authorChannelId": {
+                            "value": "UCi-OWw1aTThCE2i-O0zKfSw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:30:25Z",
+                        "updatedAt": "2024-10-20T11:30:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "18O_SASEW0qHSXCtWdnGkdyrP54",
+            "id": "UgxoIr3tsg7nQJNcUEJ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9Hgqn98jxAkwzpNhpE0cfERXKQY",
+                    "id": "UgxoIr3tsg7nQJNcUEJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Clear majority for progressive values?  Lol",
+                        "textOriginal": "Clear majority for progressive values?  Lol",
+                        "authorDisplayName": "@tribuneofmercy6184",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/pAy5YaSBjfmTBz_9jLTVSoGJEWFt3-ZP1X3NE8vbCPy2Jmw8kE9pOiNOLHRw8vh_bXmwSkjKTA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@tribuneofmercy6184",
+                        "authorChannelId": {
+                            "value": "UCb8Hzb-6XomyKvilPdhx0lA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:30:19Z",
+                        "updatedAt": "2024-10-20T11:30:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "7gz8yRZm5HFhkPStlPqUhZbaJ2U",
+            "id": "UgxIRY6oEwxE9kQnwHx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sueQ9BY4Ej2H6HAo_qPE_ldf0jQ",
+                    "id": "UgxIRY6oEwxE9kQnwHx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "So many Trump knockoffs and Smoll PPs bots in this comment section 😂",
+                        "textOriginal": "So many Trump knockoffs and Smoll PPs bots in this comment section 😂",
+                        "authorDisplayName": "@mattlang3696",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nMLlelUmR-n0DJhHYyWTev3ntmZiW-wSf1T57E0uM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@mattlang3696",
+                        "authorChannelId": {
+                            "value": "UCrFNFh6rLe9ot1_yV7pBLEQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:29:35Z",
+                        "updatedAt": "2024-10-20T11:29:35Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nehKOhjoQtaKUkdr6YRuK17DXvk",
+            "id": "UgySJOGZeWTATYmoo214AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hG3D57PP5fybHFxWEKlx_6VRswk",
+                    "id": "UgySJOGZeWTATYmoo214AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "recount",
+                        "textOriginal": "recount",
+                        "authorDisplayName": "@donaldfee9101",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mpC1u0hoGiznnrHA_4hzy9GOqbagVHKBEm7INmzwY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@donaldfee9101",
+                        "authorChannelId": {
+                            "value": "UCD-YKSEdZqMDyqL9wWNWMMg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:29:20Z",
+                        "updatedAt": "2024-10-20T11:29:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "coR-ZNx_WVZIIvql9RYMsRN_4W8",
+            "id": "Ugy1wNysLrXD47Kd3gh4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ICsp0WNbqEI8CdbCR5kxzrAkkYk",
+                    "id": "Ugy1wNysLrXD47Kd3gh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "I hate the promt &quot;mail in ballots still to be counted&quot;.",
+                        "textOriginal": "I hate the promt \"mail in ballots still to be counted\".",
+                        "authorDisplayName": "@Thor1O1",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k4Rs0uXbQbMLg75CYLkxpPRH5cG_32jlUYosEDPmY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Thor1O1",
+                        "authorChannelId": {
+                            "value": "UCygP1TBa9tgYx7GnuQ9I08g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:28:28Z",
+                        "updatedAt": "2024-10-20T11:28:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "g5J9VNKpTbrt3aMBS6OYx-9OIqo",
+            "id": "UgzqsVc7jD2ky6wdgmF4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Se8CM-TV1oxtM7kG58dnSvxg7zM",
+                    "id": "UgzqsVc7jD2ky6wdgmF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Please, let us keep this man as a leader. I didn&#39;t vote for the NDP but I almost went to his writing to help make sure he got re-elected.",
+                        "textOriginal": "Please, let us keep this man as a leader. I didn't vote for the NDP but I almost went to his writing to help make sure he got re-elected.",
+                        "authorDisplayName": "@ThePerch-m1m",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/I8I9G56U2yOw4jPG5RwDxf4EG3Lqpl8uMesxfV_Cv8uLN19PN4oOIHW87k8Zd523W8jQ3apZ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ThePerch-m1m",
+                        "authorChannelId": {
+                            "value": "UCFk-hKDu09Zjzj4uevNXmBw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:28:25Z",
+                        "updatedAt": "2024-10-20T11:28:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "A9eKdxczSesX220j3jpK7g7O-rg",
+            "id": "UgymQ3hamw9VO8kZ7CZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PArQN9_UNXA_gOP542f6rwHNROA",
+                    "id": "UgymQ3hamw9VO8kZ7CZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Rustad &amp; The BCC pretty much failed upwards this election. Throughout an entire election season they didn&#39;t even come up with a full platform and budget until 4 days prior to the election (not to mention that they proposed a higher deficit while simultaneously cutting health spending),  not having a plan to address the housing crisis and a non existent climate policy etc.  They basically went from fringe party to the main opposition while doing nothing to warrant that accomplishment. In most provinces, such a shoddily run campaign would have tanked them.",
+                        "textOriginal": "Rustad & The BCC pretty much failed upwards this election. Throughout an entire election season they didn't even come up with a full platform and budget until 4 days prior to the election (not to mention that they proposed a higher deficit while simultaneously cutting health spending),  not having a plan to address the housing crisis and a non existent climate policy etc.  They basically went from fringe party to the main opposition while doing nothing to warrant that accomplishment. In most provinces, such a shoddily run campaign would have tanked them.",
+                        "authorDisplayName": "@Godzilla52",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lOVHJCfmWHo-i-8kboLYA_exKoEearLOVKeYVFKhX5tQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Godzilla52",
+                        "authorChannelId": {
+                            "value": "UCvtwcfwg4iyfPsF1E66dumQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:28:19Z",
+                        "updatedAt": "2024-10-20T11:29:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bAKwvOg5iGzkI8uSDGS_0x2BrsQ",
+            "id": "UgwP4HT6XjfI36m2DRR4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HPD2k1Astz5po-V6-KbZqDpZTEY",
+                    "id": "UgwP4HT6XjfI36m2DRR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "hasn&#39;t the NDP run out of your money? isn&#39;t that how socialism works",
+                        "textOriginal": "hasn't the NDP run out of your money? isn't that how socialism works",
+                        "authorDisplayName": "@12v71detroit",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_keQn-NCJTrkmJA4Z_0oLaS0ABrnu6c3vcECN7GtCU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@12v71detroit",
+                        "authorChannelId": {
+                            "value": "UCRpFYgGR5d0rV1U2EFAUTEQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:27:40Z",
+                        "updatedAt": "2024-10-20T11:27:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "d56_nGbEsqCwivZHcEvcNpO7nKw",
+            "id": "UgzZIXJ1U2MQ59zf4-x4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sZo-Tz5p2xl7aeWY-wWyQF2C1wA",
+                    "id": "UgzZIXJ1U2MQ59zf4-x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "BC deserves Jagmeet and his support of the Liberal Party.",
+                        "textOriginal": "BC deserves Jagmeet and his support of the Liberal Party.",
+                        "authorDisplayName": "@CA-1954",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_klAjFFqbM-83M2W3iqwrBoKW_3abGBj5XeLvRw7RA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@CA-1954",
+                        "authorChannelId": {
+                            "value": "UC9JlyFYog89Y3f5Ql528XEg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:26:00Z",
+                        "updatedAt": "2024-10-20T11:26:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "k0Ug86F6c1VRdzPcaC-CcUI5Eq8",
+            "id": "UgyZUpqwy-KWM5BAMIJ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LBBI3JHTCSafv5pvy5cTlbU9S2I",
+                    "id": "UgyZUpqwy-KWM5BAMIJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "The fact that NDP is close to a majority makes this election disappointing !!",
+                        "textOriginal": "The fact that NDP is close to a majority makes this election disappointing !!",
+                        "authorDisplayName": "@kasolpromodo1989",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l6zUJYgwy8BXoPNZ_m5drj7nlbpygOGsLeDEiywSU6VA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@kasolpromodo1989",
+                        "authorChannelId": {
+                            "value": "UC-Kct54Hf5CoQFWw9D2caEg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T11:25:46Z",
+                        "updatedAt": "2024-10-20T11:25:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lv6j5fpNohuwNiSXNeEtrvUeCGc",
+            "id": "Ugy4TLeCEJwOszQro454AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Y0YYTP1ugV5fEzWzG9Qn1ulezEA",
+                    "id": "Ugy4TLeCEJwOszQro454AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "wwhhyyyyyy are people stil voting for these f’ing ndp scumbags",
+                        "textOriginal": "wwhhyyyyyy are people stil voting for these f’ing ndp scumbags",
+                        "authorDisplayName": "@Meowface.",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/z_budEeoad4kbSVc1j5GbcSneG3kMmY5ZqyYHEojY-OqfFbkxHQpx0R07LcEm-TfxXOoFiY6=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Meowface.",
+                        "authorChannelId": {
+                            "value": "UCmJ7vfzDN2TEv2yeuOA0BbA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:24:28Z",
+                        "updatedAt": "2024-10-20T11:24:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "gPU-Q1JSLuBOeCjnqWRS4NjAQZU",
+            "id": "Ugxg2Hpl4ymIJ9BBHTx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "PBHuqgl7j0isrO0sx8sV7EldPao",
+                    "id": "Ugxg2Hpl4ymIJ9BBHTx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "i feel like half the people in these comments dont even know that the federal and provincial  ndp/cons aren&#39;t the same",
+                        "textOriginal": "i feel like half the people in these comments dont even know that the federal and provincial  ndp/cons aren't the same",
+                        "authorDisplayName": "@1q3er5",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mXRlruF8haeUqRgpuctoKJ1Mv5hz4DBRi-dznwLbY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@1q3er5",
+                        "authorChannelId": {
+                            "value": "UC3cyZmXCfskC6LLUK9_ZKog"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:21:41Z",
+                        "updatedAt": "2024-10-20T11:21:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MaMl9a3TJ4HwtPRMIVxu-U3dZOo",
+            "id": "UgwdbHC5JhLinT1SEfh4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nN00l9L6RkxfucN5P8BHmoq-l9k",
+                    "id": "UgwdbHC5JhLinT1SEfh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "You have to be living under a rock to vote ndp or liberal",
+                        "textOriginal": "You have to be living under a rock to vote ndp or liberal",
+                        "authorDisplayName": "@rosewinter633",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n7O1bvGibBHbv3cY8Ju4MzU_Kw_jthimRfNmDxzSM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@rosewinter633",
+                        "authorChannelId": {
+                            "value": "UCi4hsFeQ3nKRp9mICi2_5Pg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T11:21:30Z",
+                        "updatedAt": "2024-10-20T11:21:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-_oThRsjyVf9bEpjjeCEfa8Gn7k",
+            "id": "Ugy-T0waz05qWuvnm0h4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jz0ZQBipzzy57EX7-B17NVTj-A8",
+                    "id": "Ugy-T0waz05qWuvnm0h4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "This Scumbag, keep raising rent while giving away free drugs and the thousands of ODs on top of everything else. You don&#39;t deserve to have any power any more!",
+                        "textOriginal": "This Scumbag, keep raising rent while giving away free drugs and the thousands of ODs on top of everything else. You don't deserve to have any power any more!",
+                        "authorDisplayName": "@RobbSuNN777",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_li1fLI_CW8XfsfHE2NX-VJCzkNaYNkJPhIMc0M8Y69e0s=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@RobbSuNN777",
+                        "authorChannelId": {
+                            "value": "UCs5z9x-B_31fms1dDj_WNiw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:21:20Z",
+                        "updatedAt": "2024-10-20T11:21:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LOW21YZIKSUqnCaAbyoVeN8tZQc",
+            "id": "UgyHlYBr1mNBksIknAd4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QkfWMoCbWMJOPtQgkeytvsELgeA",
+                    "id": "UgyHlYBr1mNBksIknAd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Genuinely incredible how anyone can vote Conservative. Every time they&#39;re in power, things get worse.",
+                        "textOriginal": "Genuinely incredible how anyone can vote Conservative. Every time they're in power, things get worse.",
+                        "authorDisplayName": "@PenneySounds",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_msIKSneU72ES5PSs4hBLls0GQL0em6Yn1yb0NOIzciEQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@PenneySounds",
+                        "authorChannelId": {
+                            "value": "UCIAzVxFjxjozgBuN9oRNHSQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:21:13Z",
+                        "updatedAt": "2024-10-20T11:21:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bhlGGdmHoxDFhOUwKYvXxhrqlbM",
+            "id": "UgxANK8rgxb-iGqtS0x4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yx6jkPu_nX8Zp0FME6-FJ67xEZE",
+                    "id": "UgxANK8rgxb-iGqtS0x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Congratulations NDP work and support bc community",
+                        "textOriginal": "Congratulations NDP work and support bc community",
+                        "authorDisplayName": "@gurvindersaund7466",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nNuxJVlffXjhfR5z9JEGfUY_AP7Na58j-HvvY772fCJVk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@gurvindersaund7466",
+                        "authorChannelId": {
+                            "value": "UCEsXVod33eWKdWAVUJ9_jow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:20:12Z",
+                        "updatedAt": "2024-10-20T11:20:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GY4HvZ54sNZWqayy_PZNtBUOYEg",
+            "id": "UgxXIBNQlKSAeGOCiVZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "EbfOG2I8s_CA69pzEM85ykZdrog",
+                    "id": "UgxXIBNQlKSAeGOCiVZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Election Fraud!! We never pass the night to count the votes, but since the Plan-demic, the US and Canadian elections have been very sketchy.",
+                        "textOriginal": "Election Fraud!! We never pass the night to count the votes, but since the Plan-demic, the US and Canadian elections have been very sketchy.",
+                        "authorDisplayName": "@Trump2023",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/hyDlJwSOE4HPcBJ8aP1z6Sc4fNb-s2VNxUjTirG2oimE1KaMH9sLuT0KKJXN6mFgWs_7PMIW=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Trump2023",
+                        "authorChannelId": {
+                            "value": "UCRqW3_p36fmaaydOY9HCC8w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T11:18:52Z",
+                        "updatedAt": "2024-10-20T11:18:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Px8AKT7HkALRYfH69vdzdMwBB_A",
+            "id": "UgwyZbeAC99KrC3m2zx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2ojNPnCDEPrr0MaoGBkiPV1YXTk",
+                    "id": "UgwyZbeAC99KrC3m2zx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Defund CRU/CIRG.",
+                        "textOriginal": "Defund CRU/CIRG.",
+                        "authorDisplayName": "@shaeisgae8952",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/5gLrMMuxAe9z9uTG2pat1IiLdFI2Q_KvB6K2isHFo0c4-3k6nAjYvCZFpdC-3Wxwyw_Hy9oYpRI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@shaeisgae8952",
+                        "authorChannelId": {
+                            "value": "UC5n2G3oLmLiWLMyh_Cil9bQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:18:42Z",
+                        "updatedAt": "2024-10-20T11:18:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "q5ENSLdDwU4PnIdw8HU3ByKHWMQ",
+            "id": "UgyRgyg3_7-WRiF_6gh4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ns2qQkivRpuFz1c7GgSWWO8RDts",
+                    "id": "UgyRgyg3_7-WRiF_6gh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "maybe people will go to their Parliament and de-legalized this party.",
+                        "textOriginal": "maybe people will go to their Parliament and de-legalized this party.",
+                        "authorDisplayName": "@teresateresa877",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_neb7Koaz3XI1zjlVQJpNorILIXjZ8J241WOpSHmKsyIsA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@teresateresa877",
+                        "authorChannelId": {
+                            "value": "UC4qo_Mn3JA_4OpLB8kEdhnw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:18:21Z",
+                        "updatedAt": "2024-10-20T11:18:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JFmhjKomkbEfvuIzuyW4iTRj-b0",
+            "id": "Ugz-JLBU5bTcIvrHzix4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wt8rVQlWuIXblmnqPZDeHJf3u5M",
+                    "id": "Ugz-JLBU5bTcIvrHzix4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Don&#39;t worry the TV will tell you who won ,,,trust the TV",
+                        "textOriginal": "Don't worry the TV will tell you who won ,,,trust the TV",
+                        "authorDisplayName": "@davidanderson7460",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k527KR5GY7ZK4fOWjEsWY3AftpfqhJtJ_zTv_XrWo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@davidanderson7460",
+                        "authorChannelId": {
+                            "value": "UCILhxEdjordd5y5EXdZRyJA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:18:14Z",
+                        "updatedAt": "2024-10-20T11:18:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8iJDTtCRRiJQudF6363aPZ-gC74",
+            "id": "UgxT3SwLSH1QQCs32fV4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4DlxJ-NCjvmmQX-U3O9GLOIl9qk",
+                    "id": "UgxT3SwLSH1QQCs32fV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP are full of really odd/strange people. Why BC would want them back???",
+                        "textOriginal": "NDP are full of really odd/strange people. Why BC would want them back???",
+                        "authorDisplayName": "@deandunn-q1o",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lZd3IV7nI5_r78xBsGqdeDUSf6ZKDy1utzm1ofOugkvJaNztTT_zrN-CFCRviw34O3NA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@deandunn-q1o",
+                        "authorChannelId": {
+                            "value": "UCFMyXgDzKOVLqVRn6WbeidA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T11:17:27Z",
+                        "updatedAt": "2024-10-20T11:17:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LFljeZ4ofzBxWWgKDBUyk4oFObg",
+            "id": "UgyWqTIQ3flVi9ANeh54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vdh-HH83dJy50p1yHcA_W6EpGZM",
+                    "id": "UgyWqTIQ3flVi9ANeh54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "who the heck, is voting for  NDP?!  People, wake up... the God gave you free will, use it at last!",
+                        "textOriginal": "who the heck, is voting for  NDP?!  People, wake up... the God gave you free will, use it at last!",
+                        "authorDisplayName": "@teresateresa877",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_neb7Koaz3XI1zjlVQJpNorILIXjZ8J241WOpSHmKsyIsA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@teresateresa877",
+                        "authorChannelId": {
+                            "value": "UC4qo_Mn3JA_4OpLB8kEdhnw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:16:33Z",
+                        "updatedAt": "2024-10-20T11:16:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "QmBEIlqIghV7-F4fcrI4oLq5Tno",
+            "id": "Ugwyy-wLrHPaOqRbR4V4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "uIII9Jy7PsWRZayIhpMqAox172E",
+                    "id": "Ugwyy-wLrHPaOqRbR4V4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Doing same things over and over is embarrassing.   If u tried to do anything but what the media pushrd u have my respect.   If u are brainwashed and just followed the crowd  get ur vaccines please",
+                        "textOriginal": "Doing same things over and over is embarrassing.   If u tried to do anything but what the media pushrd u have my respect.   If u are brainwashed and just followed the crowd  get ur vaccines please",
+                        "authorDisplayName": "@zeddtbear",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/UnQ8JXimEyU5zVcqMzypdslIYt_wdDeMepIpxQszsr1KSSk-QBu8MYW7iRcqqz3q9UdZXq_D0A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@zeddtbear",
+                        "authorChannelId": {
+                            "value": "UCGDg0FDAdaXxqSkwaVmytvg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:16:25Z",
+                        "updatedAt": "2024-10-20T11:16:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-Kpxnuzie1P1N31Yn5XnxlRIsdg",
+            "id": "UgxQWShGJ6wQsh6CD3x4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Hv-u24EObg9uC59wJjVaRbD7wAM",
+                    "id": "UgxQWShGJ6wQsh6CD3x4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Dominion voting machines were used in the voting process, so can we really trust the results ?",
+                        "textOriginal": "Dominion voting machines were used in the voting process, so can we really trust the results ?",
+                        "authorDisplayName": "@paulachenkonobert3802",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lPzli4dJG5cLnw96ruYoBNm3_5_eD8i8XDpv7ulgomHNDYGeHCJcNCTE1xkfCyWJwrCw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@paulachenkonobert3802",
+                        "authorChannelId": {
+                            "value": "UCrw3XXuhupwZtW3kd5M0rYg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:16:20Z",
+                        "updatedAt": "2024-10-20T11:16:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2QWxUyoS2HflAIjsPcUNvKLWja0",
+            "id": "Ugza3_rIP4WwtL__eup4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5MniTDAhurtORYB41y4wMtqFS0c",
+                    "id": "Ugza3_rIP4WwtL__eup4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP keep pushing legalized drug use 👍<br>What could go wrong?<br>Absolutely foolish leadership",
+                        "textOriginal": "NDP keep pushing legalized drug use 👍\nWhat could go wrong?\nAbsolutely foolish leadership",
+                        "authorDisplayName": "@robmainville2632",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/s87nyfRgB0S0rcjnFpjmcl7R2cu5pLPVwoP05TvATmUohCQx_KUBOk1SM8A4T0x_GSYzaLe_=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@robmainville2632",
+                        "authorChannelId": {
+                            "value": "UCJK_8mxljnodO3rF3OJeQGg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2024-10-20T11:15:18Z",
+                        "updatedAt": "2024-10-20T11:15:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "TLj4odIJ_4k_04G7RM9MSYprCIg",
+            "id": "UgzyB0q40PDRntICqpV4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jk-DKQLZT9czeL2ZIFyar7qfsLU",
+                    "id": "UgzyB0q40PDRntICqpV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP progressives are contributing to ruining this beautiful Country",
+                        "textOriginal": "NDP progressives are contributing to ruining this beautiful Country",
+                        "authorDisplayName": "@jetmould",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/PY3KsA4RIsPc7LeTnVs4QD-QpNu0KGS-sITZr_wHDQLvSN77oDOudCJqJfiKlbJ2WT3VmPlqvg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@jetmould",
+                        "authorChannelId": {
+                            "value": "UCXChhfV_3JEtRyo7XCYh81w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:14:52Z",
+                        "updatedAt": "2024-10-20T11:14:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BBF-rApegapAvLJAYc3Blp7aLnM",
+            "id": "UgwqProo9QOixx81X2p4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "9SOIzBPGVw5gYj5gLp_o4Gd0TT0",
+                    "id": "UgwqProo9QOixx81X2p4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Thank God the Conservatives didn&#39;t win. BC dodged a bullet there.",
+                        "textOriginal": "Thank God the Conservatives didn't win. BC dodged a bullet there.",
+                        "authorDisplayName": "@karenobrian4371",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/hKnrBv-lLV3jJR3qWizO8FuzpO78o3k29upFxX1pW2oD34Oovp9OT3vY5b5INF42vbcg_qP7IA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@karenobrian4371",
+                        "authorChannelId": {
+                            "value": "UCEbcurhCYzmrmis4wL-ilxQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T11:12:32Z",
+                        "updatedAt": "2024-10-20T11:12:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9Lg5bSRRdqsVVO_-fUg0Y2L8Vt0",
+            "id": "UgxZeWdQSkZb4zMcuMp4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bn3sa8L2Kli3DQ3Jxc2zbp9Uk6c",
+                    "id": "UgxZeWdQSkZb4zMcuMp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "He deserves to lose. He is oblivious to what citizens want. Progressive ideology makes everyone’s lives worse",
+                        "textOriginal": "He deserves to lose. He is oblivious to what citizens want. Progressive ideology makes everyone’s lives worse",
+                        "authorDisplayName": "@adammoke8949",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k4nFN2W8IHpNW8k5BbZF468Z3GtB08GafWa7IutCeaHw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@adammoke8949",
+                        "authorChannelId": {
+                            "value": "UCCzMD_0jNSN1Q3QR1ZfG5qQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:11:55Z",
+                        "updatedAt": "2024-10-20T11:14:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "N1X1o1vVBPtMr4ac3D_pPHOG-Pw",
+            "id": "Ugyt__scxMrcDMLA-K94AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "VP2W-QsA5sHOl2vdCYG8Rc0uac4",
+                    "id": "Ugyt__scxMrcDMLA-K94AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "The Conservatives should call for a hand recount",
+                        "textOriginal": "The Conservatives should call for a hand recount",
+                        "authorDisplayName": "@shadfangoriginal5644",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nTg0cdeC1hbecz-suxrAylTP0kUy0J2zNcO4-W3BQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@shadfangoriginal5644",
+                        "authorChannelId": {
+                            "value": "UC86tl8-g0LKgfm-EkbfalfA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2024-10-20T11:11:52Z",
+                        "updatedAt": "2024-10-20T11:11:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "iYI6J8ySNt3rFP_kQQJA1Cj41VU",
+            "id": "UgzvUfrap3cw5DPy-fV4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "eIelHHkV_5X3b05T2Wg1IN4do3w",
+                    "id": "UgzvUfrap3cw5DPy-fV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "How did they win? NDP are crooks  just like liberals",
+                        "textOriginal": "How did they win? NDP are crooks  just like liberals",
+                        "authorDisplayName": "@Judie-T",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ntIewhqHLJ0jb4i8htlVqSetwgNKRcHmRn-O7k5fEhFy5geBaAVhx4v3nsZfmDVAxzbw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Judie-T",
+                        "authorChannelId": {
+                            "value": "UCSMl2FxLMlM_bOZ59PKWDqA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:11:25Z",
+                        "updatedAt": "2024-10-20T11:11:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WTzDRe7XHgyTS7DvSLqg25KWhqE",
+            "id": "UgyYDbwp5I5XD3P061F4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "56NuoQDnLIUgodLbrSTwDv5PfmQ",
+                    "id": "UgyYDbwp5I5XD3P061F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Where are the Liberal seats?  Bwahahhaha",
+                        "textOriginal": "Where are the Liberal seats?  Bwahahhaha",
+                        "authorDisplayName": "@MelissaDouris",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzwk73fmnfDwFs4aca8l6kkQx6GyTAVAtENSyHlH_Zex_oOyaCVbcQl_w7mzDMX7MLRg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MelissaDouris",
+                        "authorChannelId": {
+                            "value": "UCF9Y5r7OU0yoZ8zBWIDN9kw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:10:59Z",
+                        "updatedAt": "2024-10-20T11:10:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RDuszORQ_0ET_n_ApaEgfA6xhj4",
+            "id": "UgwV8a4O2PTEbpCfRuB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4RVat11r46A9WA1uxX5Il4Vg8eA",
+                    "id": "UgwV8a4O2PTEbpCfRuB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Alot of &quot;Buzz Words&quot; Going On Here....",
+                        "textOriginal": "Alot of \"Buzz Words\" Going On Here....",
+                        "authorDisplayName": "@johnbannister501",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mPjBlYSU6vnANwqfTo3ox2ImrC_wNmTbNtOPGXaqyGz2I=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@johnbannister501",
+                        "authorChannelId": {
+                            "value": "UCkUCgoBJCo5DZpegwrrm5ow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:10:22Z",
+                        "updatedAt": "2024-10-20T11:10:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Drzh4q4dj8PiyfvrnnIQt9WIstc",
+            "id": "UgzsQmMZCV-nTSgENb94AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QSzOKBszMVA7DI7E-eYAxOozIpw",
+                    "id": "UgzsQmMZCV-nTSgENb94AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Not to smart bc. 😅. NDP 😅.  Good luck 👍",
+                        "textOriginal": "Not to smart bc. 😅. NDP 😅.  Good luck 👍",
+                        "authorDisplayName": "@s.avelar.7979",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nbnIwyYsF5KGzS2pWd-Bbv2zgtWKXIXYtKtnh9Q669BzQAGM9gxLELfbqgp3aEheu7BQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@s.avelar.7979",
+                        "authorChannelId": {
+                            "value": "UCT6Se1-rgu9Vhf4nD_CI-TQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:09:33Z",
+                        "updatedAt": "2024-10-20T11:09:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "K__0gaAE5-PKvTZaIEkJ4vMjayY",
+            "id": "UgzeYuI-hzQ8y6FZUVx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2g9zJr-v2h706IhORTQ-z7f3rhY",
+                    "id": "UgzeYuI-hzQ8y6FZUVx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP Liberals are killing Canada.   Sheep don&#39;t learn .  I swear Canadians want to ruin this country",
+                        "textOriginal": "NDP Liberals are killing Canada.   Sheep don't learn .  I swear Canadians want to ruin this country",
+                        "authorDisplayName": "@zeddtbear",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/UnQ8JXimEyU5zVcqMzypdslIYt_wdDeMepIpxQszsr1KSSk-QBu8MYW7iRcqqz3q9UdZXq_D0A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@zeddtbear",
+                        "authorChannelId": {
+                            "value": "UCGDg0FDAdaXxqSkwaVmytvg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:07:33Z",
+                        "updatedAt": "2024-10-20T11:07:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "dbtMgvNzob2ITasxL2Umdtf_wII",
+            "id": "Ugws1CtY4ugY9vUjyhN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xlUaFCuxYeDxKzlOuS31m1qMRfE",
+                    "id": "Ugws1CtY4ugY9vUjyhN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "I guess if the NDP wins you know a majority of people enjoy the drugs and repeat offenders on the streets. For what reason I don’t know. <br>They may as well vote for Trudeau. Scary.",
+                        "textOriginal": "I guess if the NDP wins you know a majority of people enjoy the drugs and repeat offenders on the streets. For what reason I don’t know. \nThey may as well vote for Trudeau. Scary.",
+                        "authorDisplayName": "@dangrather1280",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k0ZRhL7YW-84HcNCq6B6gVbjDpGyefPozz4kH2Gg0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dangrather1280",
+                        "authorChannelId": {
+                            "value": "UCavZqF8Sw_oBbIIQTA3XM_w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:05:56Z",
+                        "updatedAt": "2024-10-20T11:05:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "aQMTB_9ox-KGecn3WAHYKccg8Ic",
+            "id": "UgzSW3v3zKeM04aXv794AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mklNzEhokf_StJ0fYwmzilL8gvI",
+                    "id": "UgzSW3v3zKeM04aXv794AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "For all the conservative people asking how this happends. The liberals are really the middle ground that lighty leans left. And this doesn&#39;t work anymore.  You cant have this milk toast warm ideology in this modern day. So you got the left or right. And people still want more progressive stuff. So that would be the ndp. You can point and point and point but non of this really was the ndp more so then the liberals idea.",
+                        "textOriginal": "For all the conservative people asking how this happends. The liberals are really the middle ground that lighty leans left. And this doesn't work anymore.  You cant have this milk toast warm ideology in this modern day. So you got the left or right. And people still want more progressive stuff. So that would be the ndp. You can point and point and point but non of this really was the ndp more so then the liberals idea.",
+                        "authorDisplayName": "@TheCanuckCanadain",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ECSDqT_SHGMX6rDj7yJy9GmAxaHb55SEoNz1ZIcBPxfutnsDoSieoTtEIXwYIetk5vPw975hPw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@TheCanuckCanadain",
+                        "authorChannelId": {
+                            "value": "UCGpHcVrXuHHbK5iIWqz4WuA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:05:36Z",
+                        "updatedAt": "2024-10-20T11:05:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lK5UeW4K-dYirBNBOOh-_hQFrsQ",
+            "id": "UgzsNaqO7Oz69c5COdt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Vmp9n3gUBSN4c00kn4oTicL0Ijg",
+                    "id": "UgzsNaqO7Oz69c5COdt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Safe community&#39;s? Nope. Haven&#39;t seen it.",
+                        "textOriginal": "Safe community's? Nope. Haven't seen it.",
+                        "authorDisplayName": "@scout8490",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/8d5VBWBR7_oTnHatoxpOqlCfchxxJzZdZCddwZD4vaZeE3H_Krdyw9VByMsrEVrI9KkN_RWD8CQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@scout8490",
+                        "authorChannelId": {
+                            "value": "UC9YW-iPCvVVT_m7JzAm5jaA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:05:21Z",
+                        "updatedAt": "2024-10-20T11:05:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2bJ-0hbFZ7zEXuS9cZQjxmPMm7k",
+            "id": "UgyyN8WpP5L-aB0RAwt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0geI8xO8qFy1I9CvfwciOkwtiaE",
+                    "id": "UgyyN8WpP5L-aB0RAwt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Who  the EFF  votes NDP&gt;:?????????????????/  What the actual EFF?",
+                        "textOriginal": "Who  the EFF  votes NDP>:?????????????????/  What the actual EFF?",
+                        "authorDisplayName": "@MelissaDouris",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mzwk73fmnfDwFs4aca8l6kkQx6GyTAVAtENSyHlH_Zex_oOyaCVbcQl_w7mzDMX7MLRg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MelissaDouris",
+                        "authorChannelId": {
+                            "value": "UCF9Y5r7OU0yoZ8zBWIDN9kw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:05:19Z",
+                        "updatedAt": "2024-10-20T11:05:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hqD3gIv0TrKmqKwqkJZHxccFH5s",
+            "id": "Ugx9OpB8pFlo93UDrgd4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ByfBXcj11mTo-E906-hotYgqrcw",
+                    "id": "Ugx9OpB8pFlo93UDrgd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP weak on crime",
+                        "textOriginal": "NDP weak on crime",
+                        "authorDisplayName": "@badugiboybimmer9232",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m4Z7B-XIEBlxL2uvnPsThz3K-hQqB-B_KOpse95SY42D4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@badugiboybimmer9232",
+                        "authorChannelId": {
+                            "value": "UCLGulrOt9UyNaegwEtqXf_w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:04:02Z",
+                        "updatedAt": "2024-10-20T11:04:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "FLXwftwxFj026UJHyoOJLkyufeo",
+            "id": "UgyILv67QNZgqewJ2LZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yt57KzN7EULk2HyXds2OqwUdW3U",
+                    "id": "UgyILv67QNZgqewJ2LZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "B(eyond) C(hina) elected a communist government?<br><br><br>Colour me surprised.<br><br>🙄",
+                        "textOriginal": "B(eyond) C(hina) elected a communist government?\n\n\nColour me surprised.\n\n🙄",
+                        "authorDisplayName": "@joemadden4160",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kkIHT5gZidnLk-2HCe_9GXfyM0NZB-s9iMkK5S15v2Vb4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@joemadden4160",
+                        "authorChannelId": {
+                            "value": "UCnGDQxhZx1w3YVKJartWfkA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T11:03:06Z",
+                        "updatedAt": "2024-10-20T11:03:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "SJNrwE0ypa64lku3HRLsrvG-T5U",
+            "id": "UgzpTDyGUYG1yF7iozJ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SrI39akhYL9cNho8sZjxUOZ0Lek",
+                    "id": "UgzpTDyGUYG1yF7iozJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "That&#39;s not even possible. They&#39;re universally hated. Fake elections again.",
+                        "textOriginal": "That's not even possible. They're universally hated. Fake elections again.",
+                        "authorDisplayName": "@googleapocalypse1967",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mOlsgwea8EuVKtSWWBGPprYpaJ3ABGLE-6xcRkc0Pv0eB5KGX5SrKX2B1RGWTU5OGDNw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@googleapocalypse1967",
+                        "authorChannelId": {
+                            "value": "UCnnrpILogLGmT0oo1Vzi1Og"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:03:05Z",
+                        "updatedAt": "2024-10-20T11:03:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "swZwAI7EYI8bW6RVdXNHQxIH3Ic",
+            "id": "UgwAMW4bbt8_TuDKDN14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "lenKZmuxLBlMJRQExO1_ieTfhO8",
+                    "id": "UgwAMW4bbt8_TuDKDN14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "This is why things never change. Keep voting for the same tired old politician",
+                        "textOriginal": "This is why things never change. Keep voting for the same tired old politician",
+                        "authorDisplayName": "@chinkc96kc",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/19f9dJVtJ2ANBJ8If8EQHoE7zaXxlKm4aLNGAdAgQl9ktnE3VOuJK4Am8SnksEUab2VQz8BQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@chinkc96kc",
+                        "authorChannelId": {
+                            "value": "UCeVMSf8YlF5L2w3S9F5xjUg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 5,
+                        "publishedAt": "2024-10-20T11:02:22Z",
+                        "updatedAt": "2024-10-20T11:02:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hXT0zaIaugLA9BBsdRQETrvqs_M",
+            "id": "UgxBMZGxQh0TXyPxRf54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "uuCiA9kDdXaExiYyYc9-c_vKVnM",
+                    "id": "UgxBMZGxQh0TXyPxRf54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "It’s hard to believe that British Colombians did this. How possibly could they have voted NDP after what he has done to their province. Well you’re going to get what you’re gonna get and it’s probably not going to be pretty. You’re going to be the new California of the north. And that is not a good thing.",
+                        "textOriginal": "It’s hard to believe that British Colombians did this. How possibly could they have voted NDP after what he has done to their province. Well you’re going to get what you’re gonna get and it’s probably not going to be pretty. You’re going to be the new California of the north. And that is not a good thing.",
+                        "authorDisplayName": "@cherylc4578",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kTjAkE3bYq3Iwbi3ZEC-Z-1QzpZj5AiZu_6F6XWn8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@cherylc4578",
+                        "authorChannelId": {
+                            "value": "UCmpuGe5GlBeoIV54BdCnd1Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 10,
+                        "publishedAt": "2024-10-20T11:01:22Z",
+                        "updatedAt": "2024-10-20T11:01:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "43FiqnIhqc3JN2QAS23oq3z9VyE",
+            "id": "UgzkgZ6nlQEIPRnBM4l4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "TyxyOdva9P_aEffG5hDJN_qLMBQ",
+                    "id": "UgzkgZ6nlQEIPRnBM4l4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Immigrants vote communism",
+                        "textOriginal": "Immigrants vote communism",
+                        "authorDisplayName": "@privateprivate5928",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/5aLJ39SFa8eDTSKssDJebd8CPG3iMQDJMz9EkTNCABnqx0UeKz_uL3nsslg918u88V7In9sPvQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@privateprivate5928",
+                        "authorChannelId": {
+                            "value": "UCyEb8xvp4lIvrUA7BhpZniA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T11:00:26Z",
+                        "updatedAt": "2024-10-20T11:00:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5hFM56QhahKzpauZfF3XZ3C2-Gw",
+            "id": "UgwWcg_Iw4bW8YzPuzB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yNXqmADoXbh4e1U58_RA5IndQhI",
+                    "id": "UgwWcg_Iw4bW8YzPuzB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Ebby is just like Trudeau ... another creepy, smarmy Liberal. His destructive kooky economic and social policies will continue to destroy BC. The same battle between common sense conservatives and ideological socialist nonsense is playing out in the rest of Canada, the USA and Europe... all of western civilization. Most provinces/states and countries are turning away from this self-destructive liberal nonsense. BC tried but failed. Look no further than the streets of Vancouver to see where this will lead the whole province now. The choice was obvious and half the province couldn&#39;t see it. Now the whole province will pay the price",
+                        "textOriginal": "Ebby is just like Trudeau ... another creepy, smarmy Liberal. His destructive kooky economic and social policies will continue to destroy BC. The same battle between common sense conservatives and ideological socialist nonsense is playing out in the rest of Canada, the USA and Europe... all of western civilization. Most provinces/states and countries are turning away from this self-destructive liberal nonsense. BC tried but failed. Look no further than the streets of Vancouver to see where this will lead the whole province now. The choice was obvious and half the province couldn't see it. Now the whole province will pay the price",
+                        "authorDisplayName": "@murray7851",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kEF6Z_jQTos1BKHdVIzq57kQ5Bs6NVI40IuifGsf6DmXs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@murray7851",
+                        "authorChannelId": {
+                            "value": "UCvsoyX35V_TTMjV4eP8WTXg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:58:35Z",
+                        "updatedAt": "2024-10-20T11:00:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CU7WUtkZ5O_4dheLhwF0-nCVxKg",
+            "id": "UgzZX39x_wI9UwbbgGZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ZEppIVLnPI_568Tdvb6AyeHzb_0",
+                    "id": "UgzZX39x_wI9UwbbgGZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "God that audience was annoying",
+                        "textOriginal": "God that audience was annoying",
+                        "authorDisplayName": "@qwelum5055",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lYiJhWId6dKoAE4aMqm7UpxWY1wpgQ7CLp52yRqQey0m6mPPdLI9Y1RRACFjrG4EvF_Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@qwelum5055",
+                        "authorChannelId": {
+                            "value": "UCMmn3y61vvFC2ddDLjg1jMA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:58:08Z",
+                        "updatedAt": "2024-10-20T10:58:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UEl0jvG5zwjbwr_HM9OnhGk-IjE",
+            "id": "Ugwe3PUeiTl2RV78UqJ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "l8Jo7TyPM6Ue2zECYFWO6dGnyso",
+                    "id": "Ugwe3PUeiTl2RV78UqJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Eby your party had 7 years! You/ your party tipped our Province into destruction! Unsafe, dangerous policies against our children under unscientific propaganda of SOGI. <br>Instead druggies shooting up in front of children. Most ts with OUR TAX DOLLARS!<br>Unprecedented homelessness, crime,!Double price of housing! under Eby as Minister of Housing, triple food prices.<br>Hospitals over burdened.  .<br>Mentally ill on streets instead of proper safe facilities.",
+                        "textOriginal": "Eby your party had 7 years! You/ your party tipped our Province into destruction! Unsafe, dangerous policies against our children under unscientific propaganda of SOGI. \nInstead druggies shooting up in front of children. Most ts with OUR TAX DOLLARS!\nUnprecedented homelessness, crime,!Double price of housing! under Eby as Minister of Housing, triple food prices.\nHospitals over burdened.  .\nMentally ill on streets instead of proper safe facilities.",
+                        "authorDisplayName": "@coolwater55",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mObjH8PvNqWbQcMiIN4boJiF-nEKJvCnJN-sSC-N0pCA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@coolwater55",
+                        "authorChannelId": {
+                            "value": "UCZlUA-oJvEUZ88-9jU0ib-A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:56:59Z",
+                        "updatedAt": "2024-10-20T10:56:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bfOw4NDYHH-L3PjjIujUhHsF6dg",
+            "id": "UgyIrvYeIlzB_YT6PrF4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Rw5vcnClSbZFe9DPJOiTXV39vyo",
+                    "id": "UgyIrvYeIlzB_YT6PrF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "I don’t think the NDP would’ve won if Canadians were truly informed by the media! 🇨🇦",
+                        "textOriginal": "I don’t think the NDP would’ve won if Canadians were truly informed by the media! 🇨🇦",
+                        "authorDisplayName": "@Possibilitiesrendless-vq6tz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mhD_uBtCD8mWdT0iitBx_Q8bq0TyRBWRZE2sXdp1oZwUfg1sZvctK6tZ7r4kqP-KS8-A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Possibilitiesrendless-vq6tz",
+                        "authorChannelId": {
+                            "value": "UCKeFWSabsZkxRvO8ToIj0jg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 7,
+                        "publishedAt": "2024-10-20T10:56:04Z",
+                        "updatedAt": "2024-10-20T10:56:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "MdwKbJ7dygPDBJRSMB46_vEds90",
+            "id": "UgwSzS9yAuKH4Y0CRd54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NcxhWRL3B3dfNaCjIOeBGXumtkQ",
+                    "id": "UgwSzS9yAuKH4Y0CRd54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Still that many idiots in bc, I&#39;m sure they cheated somehow",
+                        "textOriginal": "Still that many idiots in bc, I'm sure they cheated somehow",
+                        "authorDisplayName": "@mcphersonjohnathon",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l5ygkBHs_KZDZuaiGZd-pzOLqzxE29EM6wsxKO3tc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@mcphersonjohnathon",
+                        "authorChannelId": {
+                            "value": "UClEQszOyIzX79ZEvoZSwouw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:55:04Z",
+                        "updatedAt": "2024-10-20T10:55:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "2cNEqhPhepukV5uOL7m2Nc4MAUw",
+            "id": "UgxUmmEXxmaQX1Rgyq14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MBpIfd7lbN5eAD53vpI_Pg7q_7g",
+                    "id": "UgxUmmEXxmaQX1Rgyq14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Every. Single. Time.<br>Dominion Voting Machines…..<br><br>Democracy is dead.<br>Vive la BRICS.",
+                        "textOriginal": "Every. Single. Time.\nDominion Voting Machines…..\n\nDemocracy is dead.\nVive la BRICS.",
+                        "authorDisplayName": "@thorengebretsen3738",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_myFLk4cHp1keNUwXV4RyxxqDDbhCmLhbBrJedqL2mqew=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@thorengebretsen3738",
+                        "authorChannelId": {
+                            "value": "UCxeJ1WyDmEXfh0HWfquDJ6g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:53:40Z",
+                        "updatedAt": "2024-10-20T10:53:40Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3s1fbCL2z8V_WDuLT7D2M5IX7rc",
+            "id": "UgwcTRcNBME0T2-D5Kx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vPJjHt0SWISswpFKVXIWlA_Jk0o",
+                    "id": "UgwcTRcNBME0T2-D5Kx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "50 years to the day of casting informed thoughtful votes, never believing in voting to just get a party out.<br><br>First time voted Conservative to right this ship. <br>NDP is an absolute disgusting party for destroy destroying B.C.!",
+                        "textOriginal": "50 years to the day of casting informed thoughtful votes, never believing in voting to just get a party out.\n\nFirst time voted Conservative to right this ship. \nNDP is an absolute disgusting party for destroy destroying B.C.!",
+                        "authorDisplayName": "@coolwater55",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mObjH8PvNqWbQcMiIN4boJiF-nEKJvCnJN-sSC-N0pCA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@coolwater55",
+                        "authorChannelId": {
+                            "value": "UCZlUA-oJvEUZ88-9jU0ib-A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:52:16Z",
+                        "updatedAt": "2024-10-20T10:52:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bfUvxojm0-aRhP-ELU3slLl8sFY",
+            "id": "UgxfkLR8KFwqEeDDvYB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fDV-2jFFqgCIJe7xqafkePH-MPE",
+                    "id": "UgxfkLR8KFwqEeDDvYB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "you just gonna raise taxes hope you lose",
+                        "textOriginal": "you just gonna raise taxes hope you lose",
+                        "authorDisplayName": "@ronaldessiambre2139",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nSZjfjgsOgvcE5xFalqiF6FY08HXId7R15VSHvQJ8IFw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ronaldessiambre2139",
+                        "authorChannelId": {
+                            "value": "UCMgLq1JWtXDgzO0uRq6mJ7g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:51:27Z",
+                        "updatedAt": "2024-10-20T10:51:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "g9JRV0DghX__B9EiYFtzsGtLrnQ",
+            "id": "UgyZin7TZmGd_2vtvrR4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tVFDSy_9FT7KMXACQ5xR_yC_W58",
+                    "id": "UgyZin7TZmGd_2vtvrR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Just look at the federal coalitions effects on Canada&#39;s current state.😨🤡",
+                        "textOriginal": "Just look at the federal coalitions effects on Canada's current state.😨🤡",
+                        "authorDisplayName": "@ronhilton2255",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mt_zb3HiJ3uXKNog_dg_hYNRfNoQFVcQT5O4-eTV4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ronhilton2255",
+                        "authorChannelId": {
+                            "value": "UCC2GIdZAV1jZ6hfmqRjhyHg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T10:49:30Z",
+                        "updatedAt": "2024-10-20T10:49:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xiz1S9bgvNEP-UQwtuN2eWZYooE",
+            "id": "Ugy_aNeNpyjf9Yx-keF4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ARU_XFcmCPtMLLtStDkN9f1DkM8",
+                    "id": "Ugy_aNeNpyjf9Yx-keF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "How can anyone with half a brain vote for the communist NDP",
+                        "textOriginal": "How can anyone with half a brain vote for the communist NDP",
+                        "authorDisplayName": "@captainstk001",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mEcfCIiW9QH91ZT8sjJvpOiMQCJ9WTRQZvaG94temF=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@captainstk001",
+                        "authorChannelId": {
+                            "value": "UCqWaUmR_ZQGA4JUogurXfpQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:48:47Z",
+                        "updatedAt": "2024-10-20T10:48:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BHepzNv8crL3n4XkYI91o0Tb88g",
+            "id": "UgwyXcsnqXfu_L93IFd4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jRRmxxWE5krBTFY6S1yY7Sr2JEc",
+                    "id": "UgwyXcsnqXfu_L93IFd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "None of you are victims. Im sorry to destroy your entire outlook on life.",
+                        "textOriginal": "None of you are victims. Im sorry to destroy your entire outlook on life.",
+                        "authorDisplayName": "@thomasstephens7293",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltUppNXAmzKLT-pZP-9CmEbIlA7Xq29Q8yGn3w7R0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@thomasstephens7293",
+                        "authorChannelId": {
+                            "value": "UCwJvwknjwO2Qtk9OmcDlvtQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:46:45Z",
+                        "updatedAt": "2024-10-20T10:46:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "sA0g1SCJrkdQQASnb5qRAQzEij4",
+            "id": "UgxeV1AIF-JbYO6SwMh4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ah2RdSnarfAWaWWwGfTN5qmRmao",
+                    "id": "UgxeV1AIF-JbYO6SwMh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Trump wins, Canadians win. Donald Trump will do more for Canadians than any of these fools who push a &quot;progressive agenda.&quot;",
+                        "textOriginal": "Trump wins, Canadians win. Donald Trump will do more for Canadians than any of these fools who push a \"progressive agenda.\"",
+                        "authorDisplayName": "@otisthecanadianbulldog2400",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/yAAm-FmdfcGkkoSt5WSs4r46pCQ7faijzOPp5JoUUJE8ro4t09UTxEV8K0H6sBcRhoDxqE2A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@otisthecanadianbulldog2400",
+                        "authorChannelId": {
+                            "value": "UCbJxGfgO1qi1tRcz79swrGw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:46:12Z",
+                        "updatedAt": "2024-10-20T10:46:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GwHbuLPqAz_W-rUycpM7A8feozA",
+            "id": "Ugz54xCkrhzktZvtozB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YFbt_ZJ-XZLr--jDijHPxWJIobU",
+                    "id": "Ugz54xCkrhzktZvtozB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "You fools",
+                        "textOriginal": "You fools",
+                        "authorDisplayName": "@steelhead197",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngefdXmn5xqFE5a1TcU7mRZ47dslkvjlkc9zYwioZ5_Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@steelhead197",
+                        "authorChannelId": {
+                            "value": "UC7Z5sXdKFGCW5wSkTc-y3kg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:42:24Z",
+                        "updatedAt": "2024-10-20T10:42:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "BhsVlbqDT-fAN_02qu4bTuW5Rwg",
+            "id": "UgwA79rS74SazM9Thhl4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ZCFNDxwkt08D5t5ia3wDAEBmRPI",
+                    "id": "UgwA79rS74SazM9Thhl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "what does one expect from a province that has so many addicts who sadly their brains are fried",
+                        "textOriginal": "what does one expect from a province that has so many addicts who sadly their brains are fried",
+                        "authorDisplayName": "@MaryOttermn",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nZa2L5tvX7AvSd4Ge5CNES4grhI0iSwAR0FOEKVgy-ONyNf84-qq6U12ADeVbgPcot_Q=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MaryOttermn",
+                        "authorChannelId": {
+                            "value": "UC3s0CtHYQGimlwCfvqndJ2g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:40:22Z",
+                        "updatedAt": "2024-10-20T10:40:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PkDjc9q1y4yZBcKjWSPjeOJ-GqI",
+            "id": "UgxBBGb-XqYNg6u-vj14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Ozf7qGuP8YMjitqGRH03e7Pw5gQ",
+                    "id": "UgxBBGb-XqYNg6u-vj14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP BANKRUPTED EVERY PROVINCE",
+                        "textOriginal": "NDP BANKRUPTED EVERY PROVINCE",
+                        "authorDisplayName": "@KDean22",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/O0dLeq9FrruXAz3CFa0fAS9YzQXQzn8Mfe-cCGRrKQvT91OVV2m_0ID96xHaNOgwh3NtA8itxBc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KDean22",
+                        "authorChannelId": {
+                            "value": "UCH7neTH8Td9GiPqDrJ9xjEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 49,
+                        "publishedAt": "2024-10-20T10:40:16Z",
+                        "updatedAt": "2024-10-20T10:40:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RcRHInrc3G4DC1bWMleSqfJ0d7I",
+            "id": "Ugx_R2G4f8-3ELbqtip4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nJG-KopDVnKbJJNZlCxDaJu9pBU",
+                    "id": "Ugx_R2G4f8-3ELbqtip4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "What a clown. He&#39;s probably banned from pet stores due to gerbil misuse.",
+                        "textOriginal": "What a clown. He's probably banned from pet stores due to gerbil misuse.",
+                        "authorDisplayName": "@bunnymassacre",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ksWW-hbIMIEn8xxtb7WfsmTnM9Fvg7ViwB3GauQhw71tbklHsPX0t2jp-wLBOTWTlFb0q9U4sQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@bunnymassacre",
+                        "authorChannelId": {
+                            "value": "UCgrDF8PJOxo8uy5RmOIzeJA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:37:30Z",
+                        "updatedAt": "2024-10-20T10:37:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yeDpYXMHbsbM7BBHWFSkOIGt7dY",
+            "id": "Ugzusui5qThjPWvuxlh4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "dyZ6U8aHrHZ_QZHVccZGQddpLiM",
+                    "id": "Ugzusui5qThjPWvuxlh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Blame jagsheet Singh",
+                        "textOriginal": "Blame jagsheet Singh",
+                        "authorDisplayName": "@fishfish2128",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n5mehi8tO6F89R3kY_xGYxZaMMepLuGSaGVQgSQGO8340=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@fishfish2128",
+                        "authorChannelId": {
+                            "value": "UCjibTU0wIjJS8lpsNYsoiHw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T10:34:30Z",
+                        "updatedAt": "2024-10-20T10:34:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "D7jbCPWrOWWsShOaCtdYEdcjUP8",
+            "id": "UgzmgQi9yST6qptFIbF4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0-1UGb62YYXCUCQwZ6EI5qiw5PI",
+                    "id": "UgzmgQi9yST6qptFIbF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "I don&#39;t think Eby should&#39;ve gotten the job before an election. That&#39;s kind of Krispy Clark of him...",
+                        "textOriginal": "I don't think Eby should've gotten the job before an election. That's kind of Krispy Clark of him...",
+                        "authorDisplayName": "@seanhewitt603",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meLtS1C8gl1i7ctdw977aqXq65ZlRYz3nJcpNHxhajLNpRpb2AVHlBghoDuIef2xu6gQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@seanhewitt603",
+                        "authorChannelId": {
+                            "value": "UC5cub-T0j3TpS8a4B5xfwyw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:34:09Z",
+                        "updatedAt": "2024-10-20T10:34:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CbFDsfLldVr29vYF1ZuAV-lt7jA",
+            "id": "UgzRLSaTFaNW8tnsxW14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1X2m0KglNIlmSOTzAzo1V5SWq-c",
+                    "id": "UgzRLSaTFaNW8tnsxW14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "People actually voted NDP? 💀",
+                        "textOriginal": "People actually voted NDP? 💀",
+                        "authorDisplayName": "@kylemaclellan3891",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/-nIo0VKuCiNExukHxkxA-250yU2XIxuQICTaya_YaCnC9NxmdKNSlRMeftMjhhLBq0GW-f7tnw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@kylemaclellan3891",
+                        "authorChannelId": {
+                            "value": "UCaB4NSqnClrNYu4_n2rvBzQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 4,
+                        "publishedAt": "2024-10-20T10:33:03Z",
+                        "updatedAt": "2024-10-20T10:33:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GjsdatpS821NVpd9kRvwNObg_I4",
+            "id": "Ugwuxc3dfPUmTkTiP2F4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "EJY30F7gjklHylY4cvG9P45qjmw",
+                    "id": "Ugwuxc3dfPUmTkTiP2F4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Meaning the Conservatives won but we will rig it during the night.",
+                        "textOriginal": "Meaning the Conservatives won but we will rig it during the night.",
+                        "authorDisplayName": "@Babylon6969",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nwk87KRZKhGPbwrMMDi-8a2vGeUbZf9jn7q1yaq1ROlw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Babylon6969",
+                        "authorChannelId": {
+                            "value": "UCD9zz4_vYT5Ebl9-Z4qbS-A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 6,
+                        "publishedAt": "2024-10-20T10:32:25Z",
+                        "updatedAt": "2024-10-20T10:32:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8TrNQZJQD0wIFK2-Fu9a2EqPnqI",
+            "id": "UgzTL84fMxVrENQD5p14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "aCWy_TtTBwN8p8uqafBCmVbZjA0",
+                    "id": "UgzTL84fMxVrENQD5p14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Difficult to believe anyone would vote NDP. Also difficult to trust digital voting systems.",
+                        "textOriginal": "Difficult to believe anyone would vote NDP. Also difficult to trust digital voting systems.",
+                        "authorDisplayName": "@derekrobillard7320",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nSmcRl7KIqzjObkp2ai3rnR04nWTNmLCrc2H6VECDTQ0k=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@derekrobillard7320",
+                        "authorChannelId": {
+                            "value": "UCujiWNVfeeFYzlu6j46NcAA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 44,
+                        "publishedAt": "2024-10-20T10:32:23Z",
+                        "updatedAt": "2024-10-20T10:32:23Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 5,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JyLCc81gadnY3d3xin9AGZY6SSQ",
+            "id": "Ugys51d1uO1kS2zqyzt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3bb8T8hddvaiyo0NmnBH_cbk88o",
+                    "id": "Ugys51d1uO1kS2zqyzt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "The Conservatives as led by Rustad, make me think of the Yankee MAGAs when I hear him whine about Vaccinations and immigrants, make racist statements, and echo other Donald Trump beliefs that defy all real facts.  Yikes!  I&#39;m relieved they didn&#39;t get in.  When I direct children&#39;s choirs, and teach music in tiny unventilated classrooms at work, I am so glad to have vaccines so I won&#39;t be off work for three months.  My grandmother told me that when she was a child, entire families were wiped out by whooping cough and diptheria.  She&#39;d list the names of those who died.  These events took place in the early years of the last century, but with antibiotics starting to not keep pace with pathogens,  Donald Trump with his tiny brain has whipped up all kinds of panic that we don&#39;t need in Canada.  Yankee MAGA ideas Go Home!",
+                        "textOriginal": "The Conservatives as led by Rustad, make me think of the Yankee MAGAs when I hear him whine about Vaccinations and immigrants, make racist statements, and echo other Donald Trump beliefs that defy all real facts.  Yikes!  I'm relieved they didn't get in.  When I direct children's choirs, and teach music in tiny unventilated classrooms at work, I am so glad to have vaccines so I won't be off work for three months.  My grandmother told me that when she was a child, entire families were wiped out by whooping cough and diptheria.  She'd list the names of those who died.  These events took place in the early years of the last century, but with antibiotics starting to not keep pace with pathogens,  Donald Trump with his tiny brain has whipped up all kinds of panic that we don't need in Canada.  Yankee MAGA ideas Go Home!",
+                        "authorDisplayName": "@annalyman2616",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k4dfmF3q2HhUQ1SQhrHBuid4Eb_4KznE0RSHeCO_Um_rM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@annalyman2616",
+                        "authorChannelId": {
+                            "value": "UCTdKoDJs3rhA1Ojf1Al9TcQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 7,
+                        "publishedAt": "2024-10-20T10:32:08Z",
+                        "updatedAt": "2024-10-20T10:32:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "h94IRY82pblMOeaJ-bokKBQCQSE",
+            "id": "Ugwl5fiDMHhYMddzQ7p4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nR8qBgVguBeJ1gyvB6ZV1acRB54",
+                    "id": "Ugwl5fiDMHhYMddzQ7p4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "They need a hand count as we all know when it comes to the far left, they cheat.",
+                        "textOriginal": "They need a hand count as we all know when it comes to the far left, they cheat.",
+                        "authorDisplayName": "@dawnelder9046",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nfSppLCD_p_SuXDmSdAE7-9-LGLur8qLGgVYoVEvclLtz-hcyf1aFDVF51ZCP_GaEGag=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dawnelder9046",
+                        "authorChannelId": {
+                            "value": "UCMcxz9Sle_PbwEwA-6Zf00g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:29:09Z",
+                        "updatedAt": "2024-10-20T10:29:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "knTBLuIZmwbDRRTQlTUrWHNhORs",
+            "id": "UgyF1OtDQXsy2w5Uw_N4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jb-sgFZ-eByRODbeBXGZaOLXkBo",
+                    "id": "UgyF1OtDQXsy2w5Uw_N4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Miss you John Horgan",
+                        "textOriginal": "Miss you John Horgan",
+                        "authorDisplayName": "@surfingowl9646",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mbdw79JGc5mlEFb4L_fDS_eNfnZ3cB5TODqlDQLt_5YWQ-7_FLklstw7UB2tMe0YfK6w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@surfingowl9646",
+                        "authorChannelId": {
+                            "value": "UCP2S8ziIr6EuRd6KEZuU4KQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T10:27:51Z",
+                        "updatedAt": "2024-10-20T10:27:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GoQ7tpOKHsfwCAFnZg-iCkAEs8w",
+            "id": "UgwBW6cVN5rFLY-LlBB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nLoNgXQ9lC5zrfVed369EG7xrok",
+                    "id": "UgwBW6cVN5rFLY-LlBB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Conservatives need better leaders.",
+                        "textOriginal": "Conservatives need better leaders.",
+                        "authorDisplayName": "@anonymous4gent",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/9HUCRkrQmLUMrHwp6yUJMJEJ1LlbrPoBN7M4QDmfc4Ri1sedIruLDXQ0SJ58LnlTa5KEJTrxDv8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@anonymous4gent",
+                        "authorChannelId": {
+                            "value": "UCIugBdHYpVeXU3FYQT166ow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:27:27Z",
+                        "updatedAt": "2024-10-20T10:27:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "j63NJgePFwoKhy5YMzKCdUtfvv4",
+            "id": "UgwMlzJ6QoYmOH6JtKN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U4aw6WnqYJFLvvnyacS6yyT5DgM",
+                    "id": "UgwMlzJ6QoYmOH6JtKN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Looks like they needed more crackheads to vote for them",
+                        "textOriginal": "Looks like they needed more crackheads to vote for them",
+                        "authorDisplayName": "@Ont785",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mNkj4pW6jUvChG4gBzsrYlBtzdpsU-SuNMu6MPKVmDoCxY2_D05vAOfPJE2IATJUm0Sw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Ont785",
+                        "authorChannelId": {
+                            "value": "UCG-AOTfGI9LkmHxIrgzlldg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:27:00Z",
+                        "updatedAt": "2024-10-20T10:27:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NXEQSIqc40ARmwqwkHIEfi1BOIo",
+            "id": "UgyB_JHURrRVIhcT6y14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qcjRjykSNVDUV7na1nk9uCVA4NI",
+                    "id": "UgyB_JHURrRVIhcT6y14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "note to self: NEVER move to BC",
+                        "textOriginal": "note to self: NEVER move to BC",
+                        "authorDisplayName": "@MikeRepluk",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mVkZQagSUv5lWPko0709YUoLYyb88YkW_nrYjGPlSAfrc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MikeRepluk",
+                        "authorChannelId": {
+                            "value": "UC5xdPihJdcMCrutcpoMGYuA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 33,
+                        "publishedAt": "2024-10-20T10:25:56Z",
+                        "updatedAt": "2024-10-20T10:25:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 6,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xt3qvVtxislo2saulnbtgWFNT9U",
+            "id": "UgzWJGi68bmljZe-SSZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xsk0TzkZ-gJ8cbwEQJO_3c2XirY",
+                    "id": "UgzWJGi68bmljZe-SSZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Bc NDP have destroyed bc. If they win, vancouver will soon be a prison with no security. Fent smokers will take what they want from whomever they want. Nobody in vancouver is safe.",
+                        "textOriginal": "Bc NDP have destroyed bc. If they win, vancouver will soon be a prison with no security. Fent smokers will take what they want from whomever they want. Nobody in vancouver is safe.",
+                        "authorDisplayName": "@MosesLachaim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_najrNirkES91uW9O1x7uafNumbXLKuwgH-mLyamJqgfhwuBIDWRZGGBzH6fCNh-gOl0g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MosesLachaim",
+                        "authorChannelId": {
+                            "value": "UC3F8xgo1lZIXBnPJ5uh7QBA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:21:30Z",
+                        "updatedAt": "2024-10-20T10:21:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "aPNFPEUXtUxZlcz_Od2qV4vW_hs",
+            "id": "UgwV4YPWPXII03urUAB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y93voepEvJLADlcTk2egk2TQJdk",
+                    "id": "UgwV4YPWPXII03urUAB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "HIGHEST GAS PRICES IN CANADA ARE IN BC",
+                        "textOriginal": "HIGHEST GAS PRICES IN CANADA ARE IN BC",
+                        "authorDisplayName": "@KDean22",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/O0dLeq9FrruXAz3CFa0fAS9YzQXQzn8Mfe-cCGRrKQvT91OVV2m_0ID96xHaNOgwh3NtA8itxBc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KDean22",
+                        "authorChannelId": {
+                            "value": "UCH7neTH8Td9GiPqDrJ9xjEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 40,
+                        "publishedAt": "2024-10-20T10:21:25Z",
+                        "updatedAt": "2024-10-20T10:21:25Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "HRw3YcvREontHbFqT5QggzijPNg",
+            "id": "UgyuQ6ajTtHibm56-P54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_RZzbIFeh2Jd_hthFv_NxwgnT7E",
+                    "id": "UgyuQ6ajTtHibm56-P54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Bc NDP have destroyed bc. If they win, vancouver will soon be a prison with no security. Fent smokers will take what they want from whomever they want. Nobody in vancouver is safe.",
+                        "textOriginal": "Bc NDP have destroyed bc. If they win, vancouver will soon be a prison with no security. Fent smokers will take what they want from whomever they want. Nobody in vancouver is safe.",
+                        "authorDisplayName": "@MosesLachaim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_najrNirkES91uW9O1x7uafNumbXLKuwgH-mLyamJqgfhwuBIDWRZGGBzH6fCNh-gOl0g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@MosesLachaim",
+                        "authorChannelId": {
+                            "value": "UC3F8xgo1lZIXBnPJ5uh7QBA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:21:11Z",
+                        "updatedAt": "2024-10-20T10:21:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xtZ2xktW0ghhS53lT_Ab8PWwF6o",
+            "id": "UgzelUt_3_FTesNR7nB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Pb6NObCtk1fYnMRVAH4taMsQa60",
+                    "id": "UgzelUt_3_FTesNR7nB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "👍👍👍",
+                        "textOriginal": "👍👍👍",
+                        "authorDisplayName": "@frankdisensi2379",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lglEVmFFvJcGTthjC40ZSDKFEIq_FMcZCu6WFK9q2d4jH4JFUcHxRkgfTb41TbZjELqg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@frankdisensi2379",
+                        "authorChannelId": {
+                            "value": "UCLP0Es-fx5dzo7oHb2wFiwg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:19:44Z",
+                        "updatedAt": "2024-10-20T10:19:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GVDWqEGklZQYOdaFdLDwWfVAPPo",
+            "id": "Ugzp65yk8_L1nTJZOY14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1stfqEH40dfCSkuZIv1HxG9Cf48",
+                    "id": "Ugzp65yk8_L1nTJZOY14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Interesting!!",
+                        "textOriginal": "Interesting!!",
+                        "authorDisplayName": "@johncarsone1579",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nBtf2aTuAhCN-_h61quzmAMTi6lncABwcvfoxwww6tmA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@johncarsone1579",
+                        "authorChannelId": {
+                            "value": "UCgTMCPCJOntF2PBJZ8q2EAw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:18:56Z",
+                        "updatedAt": "2024-10-20T10:18:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qy5XN0PJXBFddiIvFf2NvmXl6JA",
+            "id": "UgwdkKTQ2GAadpdNFgN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MQC1L8kc_snOuFJY-fuooPhEmSo",
+                    "id": "UgwdkKTQ2GAadpdNFgN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "do better. So what the f was all that before?",
+                        "textOriginal": "do better. So what the f was all that before?",
+                        "authorDisplayName": "@ErrorUnknown2",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/FHJDssMSW7JV4sAENRJtkmP1hJiELXxmfIp_K4xZFxcmDQTYORmiTXcJ9Q1Nv-fHNGXez5Gl=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ErrorUnknown2",
+                        "authorChannelId": {
+                            "value": "UCj72QIA1xhtdUrc-Ln8ABhg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T10:18:33Z",
+                        "updatedAt": "2024-10-20T10:18:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4U7vVRzMwT5y0CIy71pYnAjrFXs",
+            "id": "UgymYy0PLFO7k5ACFxR4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "B9qyFOUuHNfJjt-TB1JuSigncTo",
+                    "id": "UgymYy0PLFO7k5ACFxR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Wft bs",
+                        "textOriginal": "Wft bs",
+                        "authorDisplayName": "@ErrorUnknown2",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/FHJDssMSW7JV4sAENRJtkmP1hJiELXxmfIp_K4xZFxcmDQTYORmiTXcJ9Q1Nv-fHNGXez5Gl=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ErrorUnknown2",
+                        "authorChannelId": {
+                            "value": "UCj72QIA1xhtdUrc-Ln8ABhg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:17:03Z",
+                        "updatedAt": "2024-10-20T10:17:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4VlRYIaRnjnbHg0w9OK02nFxMR4",
+            "id": "UgzTR2_cLeB783-NuFN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jnef2x0vlk6STMyR8ZBZIO1Tj8w",
+                    "id": "UgzTR2_cLeB783-NuFN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Worst premiere including his ministers",
+                        "textOriginal": "Worst premiere including his ministers",
+                        "authorDisplayName": "@juliekanno7677",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kJ428vIG6fPbZtZ8mHSP1U_V36XscTUFYdqBCv0Hk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@juliekanno7677",
+                        "authorChannelId": {
+                            "value": "UCEbj7yFJBfLdiGINS77Y-Tw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 8,
+                        "publishedAt": "2024-10-20T10:15:28Z",
+                        "updatedAt": "2024-10-20T10:15:28Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qP8i5IDl0rRWAlrNH-AgpRIjpwA",
+            "id": "UgzeoQTczf0uPxqDRuB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ChcFvITc61gD0wupzNziYg2TOSk",
+                    "id": "UgzeoQTczf0uPxqDRuB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP = Needles Drugs Poverty",
+                        "textOriginal": "NDP = Needles Drugs Poverty",
+                        "authorDisplayName": "@Northtothetrees",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kNOHOl8usBz_G1dx_CtCKaF-CdhJYoNhwoRy0VJcY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Northtothetrees",
+                        "authorChannelId": {
+                            "value": "UCNu0_NgJaDj0qWikCuqE5VQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:15:27Z",
+                        "updatedAt": "2024-10-20T10:15:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "n0eHKW--NhY8BSvEGoaOEsKlDHs",
+            "id": "Ugwys_FeKGC3klbBKQZ4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5KPJbmkbxhAYimFKJJi4IxrNhJ0",
+                    "id": "Ugwys_FeKGC3klbBKQZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "The fact conservatives even have that much is showing how much of a failure our education system is. Conservatives have always been an abysmal failure while in power.",
+                        "textOriginal": "The fact conservatives even have that much is showing how much of a failure our education system is. Conservatives have always been an abysmal failure while in power.",
+                        "authorDisplayName": "@Nephalem2002",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/3Jsu2uOv1CMH9uT8PYMqsRUxTJgAMmYGM7zYZZAxgm-oHmAp3EHeAL6QLaFjugbB8poSqRmCy2k=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Nephalem2002",
+                        "authorChannelId": {
+                            "value": "UCar1BvbPICvpP239X_I7iUA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:13:17Z",
+                        "updatedAt": "2024-10-20T10:13:17Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UpBBkkKRYWStJzr66FbAKPqPMFo",
+            "id": "Ugz9Khx-VwvKJ3lZAcp4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sRs0gS_HRYCmzcCXDnxztFC9C2E",
+                    "id": "Ugz9Khx-VwvKJ3lZAcp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Apparently Conservatives don&#39;t believe in climate change? Really?",
+                        "textOriginal": "Apparently Conservatives don't believe in climate change? Really?",
+                        "authorDisplayName": "@dajusta87",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l1kdYyfXXqT5MdtgvWlsVDdHOY4sbGp8-ldDeuhuiB69mg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@dajusta87",
+                        "authorChannelId": {
+                            "value": "UCNmyOmG543MgHpxY-NwKMcg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:12:22Z",
+                        "updatedAt": "2024-10-20T10:12:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XNennbSWsCfI_1aw2zJgU9hqn7k",
+            "id": "Ugxyyr2OVZpG6xmutJ14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cv_IkJHtZ2BUasFXxozk45KJ3vg",
+                    "id": "Ugxyyr2OVZpG6xmutJ14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Ndp leftist loser",
+                        "textOriginal": "Ndp leftist loser",
+                        "authorDisplayName": "@caseyr5554",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lClUFNfJrLjJx-u25y6lGcK_tds2NYOFfROFwNnFk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@caseyr5554",
+                        "authorChannelId": {
+                            "value": "UCF7SeR7Vah_zCRiZ9yIX4EA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:12:09Z",
+                        "updatedAt": "2024-10-20T10:12:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RH2o5p9FOXIkc8vaicoZdSHfq-c",
+            "id": "Ugwbmr9Ed_1vo7fS6-t4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "izrURrk24EYL7HO0wKMA1iryqRA",
+                    "id": "Ugwbmr9Ed_1vo7fS6-t4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Electronic voting is not to be trusted",
+                        "textOriginal": "Electronic voting is not to be trusted",
+                        "authorDisplayName": "@ap0lmc",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kJY2c1jLa1u-CtmCKqUTgH35wRskHtbUygSLvBSuk=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@ap0lmc",
+                        "authorChannelId": {
+                            "value": "UC9SKiB_3srrOCUo67WESFOQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:10:06Z",
+                        "updatedAt": "2024-10-20T10:10:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qT1rkJt_MUl7wgNEhZNBAk0N2Xg",
+            "id": "UgwzO_pkxq2Z0jgWnCt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y1FEeDKltHPcfCxAyr3Bg03PxEs",
+                    "id": "UgwzO_pkxq2Z0jgWnCt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Ahh yes Vernon votes for another east indian. The great replacement proceeding well I see!",
+                        "textOriginal": "Ahh yes Vernon votes for another east indian. The great replacement proceeding well I see!",
+                        "authorDisplayName": "@drdray0876",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mTuR2ZE5A6edJrdlR4LSklcdKj7buM8t-VA7WeivxZXg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@drdray0876",
+                        "authorChannelId": {
+                            "value": "UCNZTNiVOwd0l0KYEJF6_DIA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T10:09:42Z",
+                        "updatedAt": "2024-10-20T10:29:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qV-jPgd6r8bwYZ8J9k2yJKsNElw",
+            "id": "UgxJZg-fzBXRhnJGY254AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "NJi0ZewiODNGpZ04mVDtATooWk8",
+                    "id": "UgxJZg-fzBXRhnJGY254AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "how can any one vote for ndp don&#39;t you remember covid and the HST debacle",
+                        "textOriginal": "how can any one vote for ndp don't you remember covid and the HST debacle",
+                        "authorDisplayName": "@johnarthur9029",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nbB1NiTygCGQIRUymXYxpP3HiPia5m1opbv-P3KPY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@johnarthur9029",
+                        "authorChannelId": {
+                            "value": "UCfGf0av4v6_L2YVzm-CpK9g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 21,
+                        "publishedAt": "2024-10-20T10:08:12Z",
+                        "updatedAt": "2024-10-20T10:08:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "B3dE0qn-gMBquZZ9YiM_r28pZI8",
+            "id": "UgyhABKtlj8NZlWfvIB4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "0G0yfvZ_mxgOH_TYhTaPbeSwhGI",
+                    "id": "UgyhABKtlj8NZlWfvIB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "GREENS ARE COMMUNISTS LIKE NDP",
+                        "textOriginal": "GREENS ARE COMMUNISTS LIKE NDP",
+                        "authorDisplayName": "@KDean22",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/O0dLeq9FrruXAz3CFa0fAS9YzQXQzn8Mfe-cCGRrKQvT91OVV2m_0ID96xHaNOgwh3NtA8itxBc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KDean22",
+                        "authorChannelId": {
+                            "value": "UCH7neTH8Td9GiPqDrJ9xjEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:07:52Z",
+                        "updatedAt": "2024-10-20T10:08:30Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hiv8M7VpEB9YUgOX856Zx91IsG8",
+            "id": "UgyaWAHNyqXKKnceRQ54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "sR4pFedkc0uker-Eanyi266rzcE",
+                    "id": "UgyaWAHNyqXKKnceRQ54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "when&#39;s our $1000 cheque?",
+                        "textOriginal": "when's our $1000 cheque?",
+                        "authorDisplayName": "@thaihoang9414",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Xm_IztbU98ijnJD92Y-K_kPp_X2ZyvESPcDd9hf-2zv_zehNJccmv27eCTvZGEd-nRB1qagyRA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@thaihoang9414",
+                        "authorChannelId": {
+                            "value": "UCcYBa3nz6tfy14rRTQg8rzw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2024-10-20T10:07:20Z",
+                        "updatedAt": "2024-10-20T10:07:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OLHFc4wZi48DtMQqY8WmDrod-74",
+            "id": "UgwNEBKyChBsLnV3JLx4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Roj8Rl4n9lausIWF4E0Jwcy2cm0",
+                    "id": "UgwNEBKyChBsLnV3JLx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP 🤮🤮🤮",
+                        "textOriginal": "NDP 🤮🤮🤮",
+                        "authorDisplayName": "@FourthPower888",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mYTYoKF1B7tFs9gD1sl44yurR_Y02Iy7QE6tkZv623fEgSNVDLr4xTAKTESIRb6ryFFg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@FourthPower888",
+                        "authorChannelId": {
+                            "value": "UC1L44nCvdaiQ5jFDxEtuWiA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T10:07:05Z",
+                        "updatedAt": "2024-10-20T10:07:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "t8kXnAFZTIald5v5dgjTjPyctf8",
+            "id": "UgxonMWaSW0928TLu014AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "dUrzFdt2ovEJr4Na9ofHNS6P_TE",
+                    "id": "UgxonMWaSW0928TLu014AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "I am moving to the USA and work for Donald Trump and JD Vance!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                        "textOriginal": "I am moving to the USA and work for Donald Trump and JD Vance!!!!!!!!!!!!!!!!!!!!!!!!!!",
+                        "authorDisplayName": "@danielpark8003",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mB1fLuGohGRSOiRluJ_A8LefnmOW4hISYGVECJNTs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@danielpark8003",
+                        "authorChannelId": {
+                            "value": "UChHvRw0FAyh-glSr9ttrWUQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T10:07:01Z",
+                        "updatedAt": "2024-10-20T10:07:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wRZa2EZjolgUTCbGpSc5qgiSIrs",
+            "id": "Ugy5LDzR4wv1uEpaqKt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RzpMh_BG5Yq8dhkxTZYbagUk3zQ",
+                    "id": "Ugy5LDzR4wv1uEpaqKt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "NDP IS GENITAL MUTILATION OF WHITE CHILDREN",
+                        "textOriginal": "NDP IS GENITAL MUTILATION OF WHITE CHILDREN",
+                        "authorDisplayName": "@KDean22",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/O0dLeq9FrruXAz3CFa0fAS9YzQXQzn8Mfe-cCGRrKQvT91OVV2m_0ID96xHaNOgwh3NtA8itxBc=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@KDean22",
+                        "authorChannelId": {
+                            "value": "UCH7neTH8Td9GiPqDrJ9xjEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:06:58Z",
+                        "updatedAt": "2024-10-20T10:07:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "33mYgWzwYRcI00_9MyUqACXlgrc",
+            "id": "UgzEmJq745k7hU85Zbl4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "DFBU4cXHRhjRVJ_2wRIggoWc8Y0",
+                    "id": "UgzEmJq745k7hU85Zbl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "It&#39;s funny that people always say the Smart people of Canada lives in BC... Took them a long time to start voting Conservative. If you are a homeowner, landlord then you should be voting Conservative. If you have kids and dont want BC to end up like a drug-fueled, high-crime, gang-infested, homeless dystopia like California then vote Conservative.",
+                        "textOriginal": "It's funny that people always say the Smart people of Canada lives in BC... Took them a long time to start voting Conservative. If you are a homeowner, landlord then you should be voting Conservative. If you have kids and dont want BC to end up like a drug-fueled, high-crime, gang-infested, homeless dystopia like California then vote Conservative.",
+                        "authorDisplayName": "@duMaurier15",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l7PRUynomBTmG9n3snr6OYMWeMGmFEnaLfCEEVvylayw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@duMaurier15",
+                        "authorChannelId": {
+                            "value": "UCZ-DlC2vyYtNddy4JyTb7dQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:06:54Z",
+                        "updatedAt": "2024-10-20T10:07:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "i6lQES1oa7lxON1WDWjq3_iltCI",
+            "id": "UgwHw-GUwY9_ZP7IdZ14AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-KjRhG8LDH9NYIUXZqH6u9G0dPQ",
+                    "id": "UgwHw-GUwY9_ZP7IdZ14AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Is there really a clear majority for your so-called progressive value? You would have won the election already by now, wouldn’t you? You have brought chaos to BC with your 7 years ruling. Now you want to make it better?",
+                        "textOriginal": "Is there really a clear majority for your so-called progressive value? You would have won the election already by now, wouldn’t you? You have brought chaos to BC with your 7 years ruling. Now you want to make it better?",
+                        "authorDisplayName": "@kobeblue3986",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ndGC1po0gAfzQ57A6KluFkNI092J6OptloklkJjEI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@kobeblue3986",
+                        "authorChannelId": {
+                            "value": "UCaxUW_34iAfCR_KNcd0N4ww"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:05:13Z",
+                        "updatedAt": "2024-10-20T10:12:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZBzzB7Lu6476NW8cgsr0q97Ca7M",
+            "id": "Ugw0jJnBZv_dLtFY1Q54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "x3Y6i4tUfQlGjqBKja6BnGpMlx4",
+                    "id": "Ugw0jJnBZv_dLtFY1Q54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "This guy just loves the sound of his own voice.",
+                        "textOriginal": "This guy just loves the sound of his own voice.",
+                        "authorDisplayName": "@doriangray873",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nvcdT8IMfcQbywCAgrxhiUNfu5FS5Vde1xp5QX_Co0NpE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@doriangray873",
+                        "authorChannelId": {
+                            "value": "UCk135tFqkmOzL6oObeRzktg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2024-10-20T10:04:20Z",
+                        "updatedAt": "2024-10-20T10:04:20Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "WImxBq1wtUFd9HjJkSfeeGcWMFU",
+            "id": "Ugy8c34qi2-kOXpreAt4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "489clMLz7D2oDb8J0fjX44w5fZY",
+                    "id": "Ugy8c34qi2-kOXpreAt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Needles Drug Proverty<br>No Dwelling Progress <br>No Depravity Punishment",
+                        "textOriginal": "Needles Drug Proverty\nNo Dwelling Progress \nNo Depravity Punishment",
+                        "authorDisplayName": "@saltymonke3682",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nANU52ChbJRUznLOo_n2vq7MhKeEw5fwu2wYL-AKAYEEs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@saltymonke3682",
+                        "authorChannelId": {
+                            "value": "UCNLbjFdk4mxYmWQdU56_-ig"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 28,
+                        "publishedAt": "2024-10-20T10:04:00Z",
+                        "updatedAt": "2024-10-20T10:30:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 2,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "G9ux83b0vquMQ7n1Pro7rdbjaRM",
+            "id": "Ugz3EAWkQyeNGVDmJl54AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qRszNdgRDOwJ1T0MIymVUPTJRBA",
+                    "id": "Ugz3EAWkQyeNGVDmJl54AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Land of drugs and thugs",
+                        "textOriginal": "Land of drugs and thugs",
+                        "authorDisplayName": "@winterdock",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kUxq9F5ULr8BQkT-WtIGtAHF6Hze9J4ejvb7p6pbiJFNU=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@winterdock",
+                        "authorChannelId": {
+                            "value": "UCvGCA6O2vkjLn7sFLT6nrlQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:01:50Z",
+                        "updatedAt": "2024-10-20T10:01:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "d_u4iRMCzNGK-VJ8n_cdBMDVGMY",
+            "id": "Ugzrz16pZU1rhHopQDN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mnjBgQJd0C569B3kmtQociEtP1k",
+                    "id": "Ugzrz16pZU1rhHopQDN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "We have to do better. That should be there moto.",
+                        "textOriginal": "We have to do better. That should be there moto.",
+                        "authorDisplayName": "@smokeskull",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_loPscG32p_IAq8gBVD8C_xJQy3tiIP0BNxK8_dy9UFqUM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@smokeskull",
+                        "authorChannelId": {
+                            "value": "UC_lOcQSdIfCwJG-QvUwkziA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T10:00:53Z",
+                        "updatedAt": "2024-10-20T10:00:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CcT2ZeyfPUwWQLVyd8ydMkoriZs",
+            "id": "UgwKJbqzuXD9UPYHzCl4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GV70N3UMD8Xd5ZRgY77vU8mfb48",
+                    "id": "UgwKJbqzuXD9UPYHzCl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "People saying it&#39;s rigged against the Conservatives are absolutely joking. Without extra weight given to the minority population living in rural regions, it would be a leftist blowout every year. Your votes are unfairly worth more than the majority of the province. Same goes the opposite way for federal elections.",
+                        "textOriginal": "People saying it's rigged against the Conservatives are absolutely joking. Without extra weight given to the minority population living in rural regions, it would be a leftist blowout every year. Your votes are unfairly worth more than the majority of the province. Same goes the opposite way for federal elections.",
+                        "authorDisplayName": "@NoCluYT",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Q5Ot32BnDKgEXzDl-LWeLnJovhUnmn3Wjk9-KnwyweJ1Bsp5LAdrhvqZ9APNqy8rKgpyDjrVrQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@NoCluYT",
+                        "authorChannelId": {
+                            "value": "UCBbyPMMjHILnJKO8BpteghQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2024-10-20T09:59:06Z",
+                        "updatedAt": "2024-10-20T09:59:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5w3SqSWsmLpfyBYnarKP9jC2LaY",
+            "id": "UgxpBKK2EFGqkLCYaZl4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "dVMD96j9Por3JizVPJi5J2jHh6k",
+                    "id": "UgxpBKK2EFGqkLCYaZl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Who in their right mind would vote for the NDP? If there was ever a political party that needs to be abolished,they’re it!!!",
+                        "textOriginal": "Who in their right mind would vote for the NDP? If there was ever a political party that needs to be abolished,they’re it!!!",
+                        "authorDisplayName": "@shawngaertner7897",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mVUR-LM3dcEeShbF5I0msHNd3BkElxpw4GEcBlOd8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@shawngaertner7897",
+                        "authorChannelId": {
+                            "value": "UCRfIRqIdI6dWlTUzuAjIrOg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 91,
+                        "publishedAt": "2024-10-20T09:58:50Z",
+                        "updatedAt": "2024-10-20T09:58:50Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 14,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "W8KV66_kkQyhQ_RyfEfNv1RgGfE",
+            "id": "UgwzKeocQ_R8D6SEFFN4AaABAg",
+            "snippet": {
+                "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                "videoId": "ZfUf-lcvCCs",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y3_ip3VEvIBNVY0F2sMJ4eS0TaQ",
+                    "id": "UgwzKeocQ_R8D6SEFFN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCVKAcQQCO8vv87Gk62SutAg",
+                        "videoId": "ZfUf-lcvCCs",
+                        "textDisplay": "Well done BC! Dont let the UCP scumbags ruin your province too.",
+                        "textOriginal": "Well done BC! Dont let the UCP scumbags ruin your province too.",
+                        "authorDisplayName": "@anneteefah4857",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/rpVOS0636EwPuKp2s6w74LTlMFmwewD0ZARBTnLsE-L95NctxTb0upjjME4-XINouDzbr69dow=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@anneteefah4857",
+                        "authorChannelId": {
+                            "value": "UC2vUgFF3Q1UN7GNgkH63oQA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2024-10-20T09:58:14Z",
+                        "updatedAt": "2024-10-20T09:58:14Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 3,
+                "isPublic": true
+            }
+        }
+    ]
+}
